@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "HalluFormer"
+repository-code: "https://github.com/bhanuprakashvangala/HalluFormer"
+license: MIT
+authors:
+  - family-names: Mahmud
+    given-names: Sajid
+  - family-names: Neupane
+    given-names: Pawan
+  - family-names: Selvaraj
+    given-names: Joel
+  - family-names: Vangala
+    given-names: Bhanu Prakash
+  - family-names: Cheng
+    given-names: Jianlin
+preferred-citation:
+  type: conference-paper
+  title: "HalluFormer: A Transformer-Based Framework for Detecting Hallucination in Large Language Models"
+  collection-title: "AAAI 2025 Spring Symposium on AI for Engineering and Scientific Discoveries"
+  year: 2025
+  authors:
+    - family-names: Mahmud
+      given-names: Sajid
+    - family-names: Neupane
+      given-names: Pawan
+    - family-names: Selvaraj
+      given-names: Joel
+    - family-names: Vangala
+      given-names: Bhanu Prakash
+    - family-names: Cheng
+      given-names: Jianlin
